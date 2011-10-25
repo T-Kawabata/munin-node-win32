@@ -1,0 +1,11 @@
+munin-node - agent for windows. (fork munin-node-win32)
+Munin Node for Windows is a Windows client for the Munin monitoring system.
+
+The lineage is like this. 
+http://sourceforge.net/projects/munin-nodewin32/ 
+http://code.google.com/p/munin-node-win32/ 
+
+New Features
++CPU usage (64bit)
++HDD S.M.A.R.T (05,C2,C5,C6)
++Fan Speed & System Temperature (xAP Speedfan)
